@@ -1,0 +1,72 @@
+*{
+    font-family: Tahoma;
+  }
+  
+  main{
+    text-align: center;
+  }
+  
+  .background{
+    background-color: #D5CAE4;
+    margin: 2rem 0;
+    border-radius: 3px;
+  }
+  
+  .section{
+    margin: auto;
+    padding: 0 30px;
+    text-align: center;
+  }
+  
+  h1{
+    font-size: 2.5em;
+    padding-top: 40px;
+    margin-bottom: 0;
+  }
+  
+  #image{
+    display: block;
+    max-width:100%;
+    margin: auto;
+  }
+  
+  #img-caption{
+    padding: 10px 0;
+  }
+    
+  .two{
+    background-color: white;
+    width: 90%;
+    padding-top: 10px;
+  }
+  
+  .three{
+    max-width: 50%;
+  }
+  
+  .three h3{
+    margin: 50px auto;
+  }
+  
+  li{
+    padding: 10px 0;
+    text-align: left;
+    word-spacing: 2px;
+    line-height: 20px
+  }
+  
+  .end{
+    padding: 40px 40px 0 40px;
+    font-size: 0.9em;
+  }
+
+  .credits{
+    padding: 20px;
+    font-size: 0.9em;
+  }
+
+  a{
+    text-decoration: none;
+    color: rgb(112, 17, 214);
+    font-weight: bold;
+  }
